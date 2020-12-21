@@ -1,0 +1,136 @@
+@extends('layout.app')
+
+@section('content')
+<main class="lg:relative">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="bg-cover bg-no-repeat h-64 md:h-xxl align-top overlay" style="background-image:url(/images/IMG-20201117-WA0019.jpg);">
+            <div class="px-4 lg:w-1/2 sm:px-8 xl:pr-16 relative align-top md:pt-32 left-2.5 hidden md:block">
+              <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-sm md:text-6xl lg:text-5xl xl:text-sm pt-16">
+                <span class="block text-red-500 text-lg md:text-xl lg:text-2xl xl:text-3xl  tracking-wider">Access to quality health care</span>
+              </h1>
+              <p class="mt-3 max-w-md mx-auto text-lg sm:text-xl md:mt-5 md:max-w-3xl text-white">
+               We are a dynamic and progressive hospital, focused on providing the most innovative healthcare services from around the world and in Nigeria healthcare market.
+              </p>
+              <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
+                <div class="rounded-md shadow">
+                  <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700 md:py-4 md:text-lg md:px-10">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="bg-cover bg-center bg-no-repeat h-64 md:h-xxl align-top overlay" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+            <div class="px-4 sm:px-8 xl:pr-16 relative align-top pt-32 left-2.5 float-right w-1/3 mx-32 hidden md:block">
+              <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-sm md:text-6xl lg:text-5xl xl:text-sm pt-16">
+                <span class="block text-red-500 text-lg md:text-xl lg:text-2xl xl:text-3xl  tracking-wider">State of the art Facility</span>
+              </h1>
+              <p class="mt-3 max-w-md mx-auto text-lg sm:text-xl md:mt-5 md:max-w-3xl text-white">
+                We offer state of the art facilities with modern hospital equipments
+              </p>
+              <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
+                <div class="rounded-md shadow">
+                  <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700 md:py-4 md:text-lg md:px-10">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide">
+          <div class="bg-cover bg-no-repeat h-64 md:h-xxl align-top overlay" style="background-image:url(/images/IMG-20201117-WA0013.jpg);">
+            <div class="px-4 lg:w-1/3 sm:px-8 xl:pr-16 relative align-top pt-32 left-2.5 mx-10 hidden md:block">
+              <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-sm md:text-6xl lg:text-5xl xl:text-sm pt-16">
+                <span class="block text-red-500 text-lg md:text-xl lg:text-2xl xl:text-3xl  tracking-wider">What makes us Special</span>
+              </h1>
+              <p class="mt-3 max-w-md mx-auto text-lg sm:text-xl md:mt-5 md:max-w-3xl text-white">
+                We cultivate an environment of trust, honesty, mutual respect and ethics thereby providing
+                accessible and affordable quality healthcare to our patients.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Add Pagination -->
+      <div class="swiper-pagination"></div>
+      <!-- Add Arrows -->
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+</main>
+<section>
+  <div class="py-8 md:py-16">
+      <h1 class="text-center text-xl md:text-4xl font-bold text-red-700">Welcome to Denovo Hospital</h1>
+      <p class="text-justify md:text-center px-8 py-4 md:px-32 md:py-6 text-gray-500">
+        DENOVO hospital is a dynamic and progressive company focused on providing some of the most innovative heathcare and services from around the World and in Nigeria healthcare market.
+As a patient care oriented organisation, we pride ourselves in providing both healthcare professionals and patients the highest level of quality, services.
+      </p>
+  </div>
+</section>
+<main class="pb-32">
+    <div class="py-6">
+        <div class="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+          <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-8">
+            <div>
+              <div class="flex items-center justify-center h-12 w-12 rounded-md bg-green-500 text-white">
+                <!-- Heroicon name: globe-alt -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                </svg>
+              </div>
+              <div class="mt-5">
+                <dt class="text-lg leading-6 font-medium text-red-700">
+                  Our Mission
+                </dt>
+                <dd class="mt-2 text-base text-gray-500">
+                  to cultivate an environment of trust, honesty, mutual respect and ethics thereby providing
+                  accessible and affordable quality healthcare to our patients.
+                </dd>
+              </div>
+            </div>
+
+            <div>
+              <div class="flex items-center justify-center h-12 w-12 rounded-md bg-green-500 text-white">
+                <!-- Heroicon name: scale -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <div class="mt-5">
+                <dt class="text-lg leading-6 font-medium text-red-700">
+                  Our Vision
+                </dt>
+                <dd class="mt-2 text-base text-gray-500">
+                  healtheir future for all inspired by faith, driven by innovations and provided
+                  by humanity
+                </dd>
+              </div>
+            </div>
+
+            <div>
+              <div class="flex items-center justify-center h-12 w-12 rounded-md bg-green-500 text-white">
+                <!-- Heroicon name: lightning-bolt -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" />
+                </svg>
+              </div>
+              <div class="mt-5">
+                <dt class="text-lg leading-6 font-medium text-red-700">
+                  Our Core Values
+                </dt>
+                <dd class="mt-2 text-base text-gray-500">
+                  Respect: At Denovo Hospital We treat eveyone with respect and dignity <br>
+                  Integrity: ( Keep space for this I’ll get the correct text to fil it out soon)
+                </dd>
+              </div>
+            </div>
+          </dl>
+        </div>
+      </div>
+</main>
+@endsection
