@@ -48,7 +48,7 @@
         <div class="pt-8 pb-4 md:pt-16 grid md:grid-cols-2 grid-cols-1 mx-2">
             <div>
                 <img src="/images/black_nurse_2.png" class="w-full h-1/2 md:ml-24" />
-                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full md:-mt-96 -mt-6 md:ml-16 align-top overlay relative md:w-3/6 w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full md:-mt-96 -mt-6 md:ml-16 align-top overlay-custom rounded-3xl relative md:w-3/6 w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
                     <div class="w-14 py-2 bg-red-500 text-white -inset-x-1 text-3xl text-center relative">
                       <i class="fa fa-heartbeat" aria-hidden="true"></i>
                     </div>
