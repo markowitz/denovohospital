@@ -45,10 +45,10 @@
     </div>
   </div>
 <section class="pb-16 bg-white">
-        <div class="pt-8 pb-4 md:pt-16 grid md:grid-cols-2 grid-cols-1 mx-2">
+        <div class="pt-8 pb-4 md:pt-16 grid lg:grid-cols-2 grid-cols-1 mx-2">
             <div>
-                <img src="/images/black_nurse_2.png" class="w-full h-1/2 md:ml-24" />
-                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full md:-mt-96 -mt-6 md:ml-16 align-top overlay-custom rounded-3xl relative md:w-3/6 w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+                <img src="/images/black_nurse_2.png" class="w-full h-1/2 lg:ml-24" />
+                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full lg:h-4/6 lg:-mt-32 xl:-mt-96 md:-mt-20 -mt-6 lg:ml-16 align-top overlay-custom rounded-3xl relative lg:w-4/5 xl:w-3/6 md:w-full w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
                     <div class="w-14 py-2 bg-red-500 text-white -inset-x-1 text-3xl text-center relative">
                       <i class="fa fa-heartbeat" aria-hidden="true"></i>
                     </div>
@@ -81,35 +81,35 @@
                       </div>
                   </div>
             </div>
-            <div class="md:w-4/6 md:ml-16 md:text-justify">
-                <h2 class="uppercase text-gray-800 md:text-3xl text-2xl font-extrabold pt-10 md:pt-0 text-center md:text-left py-4 md:py-0">ABOUT US</h2>
-                <p class="w-full md:text-xl text-base text-gray-600 md:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
+            <div class="md:w-4/6 md:ml-28 xl:ml-16 lg:ml-32 lg:text-left xl:text-justify md:text-left">
+                <h2 class="uppercase text-gray-800 lg:text-2xl text-2xl font-extrabold pt-10 lg:pt-0 text-center md:text-left py-4 lg:py-0">ABOUT US</h2>
+                <p class="w-full lg:text-2xl xl:text-3xl md:text-2xl text-base text-gray-600 lg:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
                     some of the most innovative healthcare services from around the world and in the
                     Nigeria healthcare market.
                 </p>
 
-                <p class="w-full md:text-xl text-base text-gray-600 mt-4">
+                <p class="w-full xl:text-3xl lg:text-2xl md:text-2xl text-base text-gray-600 mt-4">
                     As a patient care oriented organization, we pride ourselves in providing both
                     healtcare professionals and patients the highest level of quality service.
                 </p>
             </div>
         </div>
 
-        <div class="text-gray-500 md:text-justify px-2 md:px-10 md:py-32 pt-6">
-            <div class="bg-cover bg-center bg-no-repeat h-full md:h-1/2 md:mx-20 align-top overlay-custom relative md:w-5/6 w-full rounded-3xl" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
-                <div class="md:flex relative text-white">
-                    <div class="md:px-10 px-6 md:py-32 py-2 w-full md:text-left text-center">
+        <div class="text-gray-500 md:text-justify px-2 md:px-2 lg:px-4 xl:px-10 lg:py-32 pt-6">
+            <div class="bg-cover bg-center bg-no-repeat h-full md:h-full lg:h-1/2 xl:h-1/2 xl:mx-20 lg:mx-auto align-top overlay-custom relative md:w-full lg:w-full xl:w-5/6 w-full rounded-3xl" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+                <div class="lg:flex relative text-white">
+                    <div class="md:px-10 px-6 md:py-32 py-2 w-full lg:text-left text-center">
                         <h1 class="md:text-3xl text-xl font-extrabold">Get <span class="text-green-500">Emergency</span> Care 24/7</h1>
 
                         <p class="py-4 md:text-xl text-base">We are always at your side. We are 24 hours available or you in emergency situations</p>
 
-                        <div class="md:py-3 py-1 md:flex md:text-left jusitfy-center">
+                        <div class="md:py-3 py-1 md:flex lg:text-left jusitfy-center">
                             <div class="md:px-4 md:text-3xl text-sm px-1">
                                 <i class="fa fa-phone-square" aria-hidden="true"></i> +234 808 5089 833
                             </div>
                           </div>
                     </div>
-                    <img class="md:w-2/5 md:h-1/5 w-3/5 h-full md:-mt-12 mx-auto mt-6 md:ml-0 md:object-cover lg:object-cover object-contain relative" src="/images/black_nurse_1.png" alt="">
+                    <img class="lg:w-2/5 md:w-3/5 md:h-full lg:h-3/5 xl:h-1/5 w-3/5 h-full md:-mt-12 mx-auto mt-6 lg:ml-0 md:object-cover lg:object-cover object-contain relative" src="/images/black_nurse_1.png" alt="">
                 </div>
             </div>
         </div>

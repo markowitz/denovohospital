@@ -4,9 +4,9 @@
       <div class="relative max-w-7xl mx-auto px-2 sm:px-6">
         <div class="flex justify-between items-center md:justify-start md:space-x-10">
           <div class="flex justify-start lg:w-0 lg:flex-1">
-            <a href="#">
+            <a href="/">
               <span class="sr-only">Denovohospital Limited</span>
-              <img class="h-20 rounded-full" src="/images/denovo_logo.jpg" alt="">
+              <img class="h-32 rounded-full" src="/images/denovo_logo.jpg" alt="">
             </a>
           </div>
           <div class="md:hidden">
