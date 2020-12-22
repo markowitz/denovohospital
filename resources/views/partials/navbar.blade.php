@@ -3,10 +3,13 @@
     <div class="bg-white shadow w-full md:w-5/6 lg:w-5/6 md:mx-32 lg:mx-32 rounded-full">
       <div class="relative max-w-7xl mx-auto px-2 sm:px-6">
         <div class="flex justify-between items-center md:justify-start md:space-x-10">
-          <div class="flex justify-start lg:w-0 lg:flex-1">
+          <div class="flex justify-start lg:w-full lg:flex-1">
             <a href="/">
               <span class="sr-only">Denovohospital Limited</span>
-              <img class="h-32 rounded-full" src="/images/denovo_logo.jpg" alt="">
+                  <img class="h-14 rounded-full float-left align-top" src="/images/logo_2.jpg" alt="denovo hospital logo">
+                  <span class="inline-block mt-4 ml-2 font-medium">
+                    <span class="text-green-600">Denovo</span> <span class="text-red-600">Hospital</span>
+                  </span>
             </a>
           </div>
           <div class="md:hidden">

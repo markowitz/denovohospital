@@ -83,12 +83,12 @@
             </div>
             <div class="md:w-4/6 md:ml-28 xl:ml-16 lg:ml-32 lg:text-left xl:text-justify md:text-left">
                 <h2 class="uppercase text-gray-800 lg:text-2xl text-2xl font-extrabold pt-10 lg:pt-0 text-center md:text-left py-4 lg:py-0">ABOUT US</h2>
-                <p class="w-full lg:text-2xl xl:text-3xl md:text-2xl text-base text-gray-600 lg:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
+                <p class="w-full lg:text-xl xl:text-2xl md:text-base text-base text-gray-600 lg:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
                     some of the most innovative healthcare services from around the world and in the
                     Nigeria healthcare market.
                 </p>
 
-                <p class="w-full xl:text-3xl lg:text-2xl md:text-2xl text-base text-gray-600 mt-4">
+                <p class="w-full lg:text-xl md:text-base xl:text-2xl text-base text-gray-600 mt-4">
                     As a patient care oriented organization, we pride ourselves in providing both
                     healtcare professionals and patients the highest level of quality service.
                 </p>
