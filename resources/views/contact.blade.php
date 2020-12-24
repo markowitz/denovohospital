@@ -113,7 +113,7 @@
       </div>
   </div>
 </section>
-<section class="pb-16 bg-white">
+<section class="pb-16 bg-green-100 bg-opacity-100">
     <div class="text-gray-500 md:text-justify px-2 md:px-10 md:py-32 pt-6">
         <div class="bg-cover bg-center bg-no-repeat h-full md:h-1/2 md:mx-20 align-top overlay-custom relative md:w-5/6 w-full rounded-3xl" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
             <div class="md:flex relative text-white">

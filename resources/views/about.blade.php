@@ -45,10 +45,10 @@
     </div>
   </div>
 <section class="pb-16 bg-white">
-        <div class="pt-8 pb-4 md:pt-16 grid lg:grid-cols-2 grid-cols-1 mx-2">
+        <div class="pt-8 pb-4 md:pt-16 grid lg:grid-cols-2 grid-cols-1 lg:mx-32 mx-2 md:mx-24">
             <div>
                 <img src="/images/black_nurse_2.png" class="w-full h-1/2 lg:ml-24" />
-                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full lg:h-4/6 lg:-mt-32 xl:-mt-96 md:-mt-20 -mt-6 lg:ml-16 align-top overlay-custom rounded-3xl relative lg:w-4/5 xl:w-3/6 md:w-full w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full lg:h-4/6 lg:-mt-72 xl:-mt-72 md:-mt-20 -mt-6 lg:ml-16 align-top overlay-custom rounded-3xl relative lg:w-5/6 md:w-full w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
                     <div class="w-14 py-2 bg-red-500 text-white -inset-x-1 text-3xl text-center relative">
                       <i class="fa fa-heartbeat" aria-hidden="true"></i>
                     </div>
@@ -57,7 +57,7 @@
                           <h3 class="text-white pt-3">Opening Hours</h3>
                           <p class="py-1">Mon - Fri .... 8:00AM TO 7:00PM</p>
                           <p class="py-1">Saturday .... 5:00AM TO 4:00PM</p>
-                          <p class="py-1">Sunday .... CLOSED</p>
+                          <p class="py-1">Sunday .... 8:00AM TO 7:00PM</p>
                         </div>
                         <div>
                           <h3 class="text-white pt-3">Get In Touch</h3>
@@ -83,84 +83,89 @@
             </div>
             <div class="md:w-4/6 md:ml-28 xl:ml-16 lg:ml-32 lg:text-left xl:text-justify md:text-left">
                 <h2 class="uppercase text-gray-800 lg:text-2xl text-2xl font-extrabold pt-10 lg:pt-0 text-center md:text-left py-4 lg:py-0">ABOUT US</h2>
-                <p class="w-full lg:text-xl xl:text-2xl md:text-base text-base text-gray-600 lg:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
+                <p class="w-full lg:text-xl xl:text-xl md:text-base text-base text-gray-600 lg:pt-20 pb-4">Denovo Hospital is a dynamic and progressive company focused on providing
                     some of the most innovative healthcare services from around the world and in the
                     Nigeria healthcare market.
                 </p>
 
-                <p class="w-full lg:text-xl md:text-base xl:text-2xl text-base text-gray-600 mt-4">
+                <p class="w-full lg:text-base md:text-sm xl:text-xl text-base text-gray-600 mt-4">
                     As a patient care oriented organization, we pride ourselves in providing both
                     healtcare professionals and patients the highest level of quality service.
                 </p>
+                <button class="px-4 py-2 my-6 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 md:block lg:block hidden">
+                  <a href="/contact">Book Appointment</a>
+                </button>
             </div>
         </div>
 
-        <div class="text-gray-500 md:text-justify px-2 md:px-2 lg:px-4 xl:px-10 lg:py-32 pt-6">
-            <div class="bg-cover bg-center bg-no-repeat h-full md:h-full lg:h-1/2 xl:h-1/2 xl:mx-20 lg:mx-auto align-top overlay-custom relative md:w-full lg:w-full xl:w-5/6 w-full rounded-3xl" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
-                <div class="lg:flex relative text-white">
-                    <div class="md:px-10 px-6 md:py-32 py-2 w-full lg:text-left text-center">
-                        <h1 class="md:text-3xl text-xl font-extrabold">Get <span class="text-green-500">Emergency</span> Care 24/7</h1>
 
-                        <p class="py-4 md:text-xl text-base">We are always at your side. We are 24 hours available or you in emergency situations</p>
-
-                        <div class="md:py-3 py-1 md:flex lg:text-left jusitfy-center">
-                            <div class="md:px-4 md:text-3xl text-sm px-1">
-                                <i class="fa fa-phone-square" aria-hidden="true"></i> +234 808 5089 833
-                            </div>
-                          </div>
-                    </div>
-                    <img class="lg:w-2/5 md:w-3/5 md:h-full lg:h-3/5 xl:h-1/5 w-3/5 h-full md:-mt-12 mx-auto mt-6 lg:ml-0 md:object-cover lg:object-cover object-contain relative" src="/images/black_nurse_1.png" alt="">
-                </div>
-            </div>
-        </div>
 </section>
 
-<section class="bg-gray-100 py-10 bg-opacity-100">
+<section class="text-gray-500 md:text-justify px-2 md:px-2 lg:px-4 xl:px-10 lg:py-32 pt-6 bg-green-100 bg-opacity-100 py-20">
+  <div class="bg-cover bg-center bg-no-repeat h-full md:h-full lg:h-1/2 xl:h-1/2 xl:mx-20 lg:mx-auto align-top overlay-custom relative md:w-full lg:w-full xl:w-5/6 w-full rounded-3xl" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+      <div class="lg:flex relative text-white">
+          <div class="md:px-10 px-6 md:py-32 py-2 w-full lg:text-left text-center">
+              <h1 class="md:text-3xl text-xl font-extrabold">Get <span class="text-green-500">Emergency</span> Care 24/7</h1>
+
+              <p class="py-4 md:text-xl text-base">We are always at your side. We are 24 hours available or you in emergency situations</p>
+
+              <div class="md:py-3 py-1 md:flex lg:text-left jusitfy-center">
+                  <div class="md:px-4 md:text-3xl text-sm px-1">
+                      <i class="fa fa-phone-square" aria-hidden="true"></i> +234 808 5089 833
+                  </div>
+                </div>
+          </div>
+          <img class="lg:w-2/5 md:w-3/5 md:h-full lg:h-3/5 xl:h-1/5 w-3/5 h-full md:-mt-12 mx-auto mt-6 lg:ml-0 md:object-cover lg:object-cover object-contain relative" src="/images/black_nurse_1.png" alt="">
+      </div>
+  </div>
+</section>
+
+<section class="bg-white py-10 bg-opacity-100">
     <div class="h-40 bg-no-repeat bg-center-top bg-contain -mt-10" style="background-image:url(/images/about-section-bg.png);background-position: calc(100% + 10px) calc(100% - 10px);">
     </div>
-    <h1 class="md:text-4xl text-2xl font-extrabold text-center -mt-20">MEET OUR EXPERTS</h1>
+    <h1 class="md:text-4xl text-2xl font-extrabold text-center -mt-20">OUR FACILITIES</h1>
     <p class="text-center md:text-xl text-base py-4 md:px-48">
-        We provide excellent services for your ultimate good health. Here some of our seasoned professionals that are available to ensure great service.
+        We provide excellent services for your ultimate good health. Here some of our facilities are included for better understanding that we are always on your side.
     </p>
         <!-- Swiper -->
 <div class="swiper-container">
-    <div class="swiper-wrapper">
+    <div class="swiper-wrapper mb-10">
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg rounded-lg h-96 w-full" src="/images/physician1.png" alt="">
-        <div class="text-center py-6">
-            <h4 class="text-xl">Dr Jane Doe</h4>
-            <p class="text-green-500">
-                Head Neuro Surgeon
-            </p>
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-64 w-full" src="/images/private_ward.jpg" alt="">
+        <div class="text-center py-3 bg-green-500 md:rounded-lg lg:rounded-lg rounded-none relative -mt-12 text-white font-semibold">
+          <h4 class="text-xl">Private Ward</h4>
+      </div>
+    </div>
+    <div class="swiper-slide">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/delivery_room.jpg" alt="">
+        <div class="text-center bg-green-500 py-3 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+          <h4 class="text-xl">Delivery Room</h4>
+      </div>
+    </div>
+    <div class="swiper-slide">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/phototherapy.jpg" alt="">
+        <div class="text-center bg-green-500 py-3 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+          <h4 class="text-xl">Phototheraphy</h4>
+      </div>
+    </div>
+    <div class="swiper-slide">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/incubator.jpg" alt="">
+        <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+            <h4 class="text-xl">Incubator Room</h4>
         </div>
     </div>
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg rounded-lg h-96" src="/images/physician2.png" alt="">
-        <div class="text-center py-6">
-            <h4 class="text-xl">Dr John Doe</h4>
-            <p class="text-green-500">
-                Assistant Surgeon
-            </p>
-        </div>
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-none md:h-72 lg:h-72 h-60 w-full" src="/images/laaboratory.jpg" alt="">
+      <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+          <h4 class="text-xl">Laboratory</h4>
+      </div>
+  </div>
+  <div class="swiper-slide">
+    <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/2_in_a_room.jpg" alt="">
+    <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+        <h4 class="text-xl">2 in a Room</h4>
     </div>
-    <div class="swiper-slide">
-        <img class="object-cover shadow-lg rounded-lg h-96" src="/images/physician3.png" alt="">
-        <div class="text-center py-6">
-            <h4 class="text-xl">Dr John Doe</h4>
-            <p class="text-green-500">
-                Assistant Surgeon
-            </p>
-        </div>
-    </div>
-    <div class="swiper-slide">
-        <img class="object-cover shadow-lg rounded-lg h-96" src="/images/physician4.png" alt="">
-        <div class="text-center py-6">
-            <h4 class="text-xl">Dr Jane Doe</h4>
-            <p class="text-green-500">
-                Cardiac Surgeon
-            </p>
-        </div>
-    </div>
+</div>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>

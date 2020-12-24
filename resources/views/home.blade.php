@@ -2,28 +2,39 @@
 
 @section('content')
 <main class="relative">
-  <div class="md:h-full h-4/5 mt-8 md:mt-10 lg:mt-10">
-    <div class="flex md:space-x-32 lg:space-x-72 xl:space-x-48 2xl:space-x-96 space-x-10 ml-24">
-      <img class="md:w-4/6 lg:w-4/6 sm:w-1/3 w-full md:h-full lg:h-full sm:h-4/6 h-full -ml-48 object-cover absolute md:-ml-40 lg:-ml-48" src="/images/black_nurse_3.png" alt="">
-      <img class="md:w-2/5 md:h-full lg:h-5/6 w-3/5 h-3/6 md:mt-10 md:object-cover lg:object-cover object-cover" src="/images/black_nurse_1.png" alt="">
+  <div class="md:h-full h-4/5 sm:mt-20 mt-24 md:mt-10 lg:mt-0 2xl:top-0">
+    <div class="flex md:space-x-32 lg:space-x-32 xl:space-x-48 2xl:space-x-96 space-x-10 ml-24">
+      <img class="md:w-4/6 lg:w-4/6 sm:w-1/3 w-full md:h-full lg:h-full sm:h-4/6 h-full -ml-48 object-cover absolute md:-ml-40 lg:-ml-48 md:block lg:block hidden" src="/images/black_nurse_3.png" alt="">
+      <img class="md:w-2/5 md:h-full lg:h-5/6 w-3/5 h-3/6 md:mt-10 md:object-cover lg:object-cover object-cover md:block lg:block hidden" src="/images/black_nurse_1.png" alt="">
         <div class="md:w-full w-full">
-          <h1 class="md:text-xl lg:text-3xl xl:text-4xl lg:w-screen md:w-80 md:mt-20 md:-ml-72 lg:mt-40 lg:-ml-40 2xl:-ml-96 tracking-tight font-extrabold text-gray-900 md:py-2 md:block lg:block hidden">
+          <h1 class="md:text-xl lg:text-3xl xl:text-4xl lg:w-full md:w-80 md:mt-10 md:-ml-32 lg:mt-16 lg:-ml-40 2xl:-ml-96 xl:-ml-48 tracking-tight font-extrabold text-gray-900 md:py-2 md:block lg:block hidden">
             <span class="text-green-300">Medical</span> <span class="text-white">Services</span><br>
             <span class="text-white">That You Can </span> <span class="text-green-300">Trust </span>
           </h1>
           <p class="md:px-10 text-white md:text-xl lg:text-2xl text-base md:block lg:block hidden md:py-1 md:-ml-40 lg:-ml-40 2xl:-ml-96 lg:px-0 lg:text-2xl lg:mt-4 md:w-80">
             We offer state of the art facilities with morden equipments
           </p>
+          <button class="md:-ml-32 lg:-ml-40 2xl:-ml-96 xl:-ml-48 px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 md:block lg:block hidden">
+            <a href="/contact">Book Appointment</a>
+          </button>
         </div>
     </div>
-    <div class="-mt-52 bg-gray-800 bg-opacity-50 absolute w-full h-48 px-16 text-white block md:hidden lg:hidden">
-      <h1 class="text-2xl tracking-tight font-extrabold text-gray-900 sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-center">
-        <span class="text-green-300">Medical</span> <span class="text-white">Services</span><br>
-        <span class="text-white">That You Can </span> <span class="text-green-300">Trust </span>
+    <div class="w-full h-48 px-16 text-white block md:hidden lg:hidden sm:-mt-10">
+      <h1 class="text-xl tracking-tight font-extrabold text-gray-900 sm:text-xl text-center">
+        <span class="text-green-600">Medical</span> <span class="text-white">Services</span><br>
+        <span class="text-white">That You Can </span> <span class="text-green-600">Trust </span>
       </h1>
       <p class="md:px-10 px-2 text-white md:text-2xl text-base py-2 text-center">
         We offer state of the art facilities with morden equipments
       </p>
+
+      <button class=" text-sm mx-auto px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 md:hidden lg:hidden block">
+        <a href="/contact" class="text-sm">Book Appointment</a>
+      </button>
+      <div class="sm:py-4 py-12">
+      <img class="-mt-2 sm:-mt-10 xxs:-mt-10 xxxs:-mt-14 max-w-7xl max-h-64 xxs:max-h-64 xxxs:max-h-96 mx-auto sm:-ml-24 xxs:-ml-32 -ml-24 object-cover md:hidden absolute lg:hidden block" src="/images/black_nurse_3.png" alt="" style="height:40vh">
+      <img class="xxs:-mt-6 xxxs:-mt-4 mt-2 max-w-xl xxs:max-h-60 xxxs:max-h-64 xxs:mt-6 max-h-52 mx-auto sm:ml-24 ml-16 object-cover md:hidden lg:hidden block" src="/images/black_nurse_1.png" alt="">
+      </div>
     </div>
     <div class="-mt-24 bg-gray-800 bg-opacity-50 absolute w-full h-24 px-16 text-white md:block lg:block sm:block xl:block hidden">
       <div class="py-3 flex px-24">
@@ -31,19 +42,19 @@
             <i class="fa fa-phone-square" aria-hidden="true"></i>
         </div>
         <div class="px-4">Get Emergency Services 24/7 <br>
-          +234 913-1884-828
+          +234 808-5089-833, +234 913-1884-828
         </div>
       </div>
     </div>
   </div>
 </main>
-<div class="bg-gray-800 bg-opacity-50 w-full h-16 px-8 text-white md:hidden lg:hidden block">
+<div class="bg-gray-800 bg-opacity-50 w-full h-16 px-8 text-white md:hidden lg:hidden block mt-64">
   <div class="py-3 flex">
     <div class="text-3xl">
         <i class="fa fa-phone-square" aria-hidden="true"></i>
     </div>
-    <div class="px-4 text-sm">Get Emergency Services 24/7 <br>
-      +234 913-1884-828
+    <div class="px-2 text-sm">Get Emergency Services 24/7 <br>
+      +234 808-5089-833, +234 913-1884-828
     </div>
   </div>
 </div>
@@ -60,6 +71,9 @@
           Our ambulances are available for quicker responses to various
           emergencies
         </p>
+        <div class="text-green-300 hover:text-green-500">
+          <a href="/services">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+          </div>
         </div>
       </div>
       <div class="border-4 h-52 md:h-64 md:w-full w-full border-pink-300 mt-2 rounded-lg">
@@ -72,6 +86,9 @@
           With state of the art facilities, Denovohospital stands out in efficient delivery
           emergencies
         </p>
+        <div class="py-6 text-pink-300 hover:text-pink-500">
+        <a href="/services" class="hover:text-4xl">Read More <i class="fa fa-long-arrow-right hover:text-4xl" aria-hidden="true"></i></a>
+        </div>
         </div>
       </div>
       <div class="border-4 h-52 md:h-64 md:w-full w-full border-green-300 mt-2 rounded-lg">
@@ -84,12 +101,15 @@
           We are open 24/7 for all medical processes and
           treatments
         </p>
+        <div class="py-2 text-green-300 hover:text-green-500">
+          <a href="/services">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+          </div>
         </div>
       </div>
   </div>
   </div>
 
-  <div class="py-4 text-gray-600 hidden md:block lg:block">
+  <div class="py-6 text-gray-600 hidden md:block lg:block bg-green-100 bg-opacity-100">
     <div class="justify-center flex">
       <img src="/images/black_nurse_2.png" class="w-96 h-96 inline-block" />
       <div class="inline-block align-center md:w-full lg:w-2/6 py-16 px-8">
@@ -107,7 +127,7 @@
               <h3 class="text-white">Opening Hours</h3>
               <p class="py-3">Mon - Fri .... 8:00AM TO 7:00PM</p>
               <p class="py-3">Saturday .... 5:00AM TO 4:00PM</p>
-              <p class="py-3">Sunday .... CLOSED</p>
+              <p class="py-3">Sunday .... 8:00am to 7:00pm </p>
             </div>
             <div>
               <h3 class="text-white">Get In Touch</h3>
@@ -133,7 +153,7 @@
     </div>
   </div>
 
-  <div class="py-4 text-gray-600 block md:hidden lg:hidden">
+  <div class="py-4 text-gray-600 block md:hidden lg:hidden bg-green-100 bg-opacity-50">
     <div class="">
       <img src="/images/black_nurse_2.png" class="w-96 h-96 mx-auto" />
       <div class="text-center mx-auto py-8">

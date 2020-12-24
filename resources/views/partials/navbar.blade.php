@@ -1,13 +1,13 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="relative py-4 w-full"  x-data="{ isOpen: false }">
-    <div class="bg-white shadow w-full md:w-5/6 lg:w-5/6 md:mx-32 lg:mx-32 rounded-full">
+    <div class="bg-white shadow w-full md:w-4/5 lg:w-5/6 md:mx-16 lg:mx-32 rounded-full">
       <div class="relative max-w-7xl mx-auto px-2 sm:px-6">
         <div class="flex justify-between items-center md:justify-start md:space-x-10">
           <div class="flex justify-start lg:w-full lg:flex-1">
             <a href="/">
               <span class="sr-only">Denovohospital Limited</span>
                   <img class="h-14 rounded-full float-left align-top" src="/images/logo_2.jpg" alt="denovo hospital logo">
-                  <span class="inline-block mt-4 ml-2 font-medium">
+                  <span class="inline-block mt-4 ml-2 font-semibold">
                     <span class="text-green-600">Denovo</span> <span class="text-red-600">Hospital</span>
                   </span>
             </a>
@@ -21,7 +21,7 @@
               </svg>
             </button>
           </div>
-          <nav class="hidden md:flex space-x-10">
+          <nav class="hidden md:flex space-x-10 md:justify-end">
             <a href="/" class="text-sm font-bold  hover:text-green-500 {{(request()->is('/')) ? 'text-green-500 font-extrabold' : 'text-red-600'}}">
               HOME
             </a>
