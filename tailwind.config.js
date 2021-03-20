@@ -13,7 +13,9 @@ module.exports = {
     },
     extend: {
       height: {
-        xxl: '600px'
+        xxl: '600px',
+        half: '50vh',
+        '7/12' : '70vh'
       },
       bg: {
         1000: '#375336'

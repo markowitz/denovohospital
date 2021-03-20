@@ -28,7 +28,7 @@
               <i class="fa fa-phone-square" aria-hidden="true"></i>
           </div>
           <div class="px-4">Get Emergency Services 24/7 <br>
-            +234 913-1884-828
+            +234 808-5089-833, +234 913-1884-828
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
           <i class="fa fa-phone-square" aria-hidden="true"></i>
       </div>
       <div class="px-4 text-sm">Get Emergency Services 24/7 <br>
-        +234 913-1884-828
+        +234 808-5089-833, +234 913-1884-828
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@
         <div class="pt-8 pb-4 md:pt-16 grid lg:grid-cols-2 grid-cols-1 lg:mx-32 mx-2 md:mx-24">
             <div>
                 <img src="/images/black_nurse_2.png" class="w-full h-1/2 lg:ml-24" />
-                <div class="bg-cover bg-center bg-no-repeat h-96 md:h-full lg:h-4/6 lg:-mt-72 xl:-mt-72 md:-mt-20 -mt-6 lg:ml-16 align-top overlay-custom rounded-3xl relative lg:w-5/6 md:w-full w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
+                <div class="bg-cover bg-center bg-no-repeat h-full md:h-full lg:h-2/6 2xl:h-3/6 lg:-mt-72 xl:-mt-72 2xl:-mt-32 md:-mt-20 -mt-6 lg:ml-16 align-top overlay-custom rounded-3xl relative lg:w-5/6 md:w-full w-full" style="background-image:url(/images/IMG-20201117-WA0012.jpg);">
                     <div class="w-14 py-2 bg-red-500 text-white -inset-x-1 text-3xl text-center relative">
                       <i class="fa fa-heartbeat" aria-hidden="true"></i>
                     </div>
@@ -131,38 +131,44 @@
 <div class="swiper-container">
     <div class="swiper-wrapper mb-10">
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-64 w-full" src="/images/private_ward.jpg" alt="">
-        <div class="text-center py-3 bg-green-500 md:rounded-lg lg:rounded-lg rounded-none relative -mt-12 text-white font-semibold">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/private_ward.jpg" alt="">
+        <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+        <div class="text-center py-3 bg-green-500 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
           <h4 class="text-xl">Private Ward</h4>
       </div>
     </div>
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/delivery_room.jpg" alt="">
-        <div class="text-center bg-green-500 py-3 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/delivery_room.jpg" alt="">
+        <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+        <div class="text-center bg-green-500 py-3 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
           <h4 class="text-xl">Delivery Room</h4>
       </div>
     </div>
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/phototherapy.jpg" alt="">
-        <div class="text-center bg-green-500 py-3 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/phototherapy.jpg" alt="">
+        <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+        <div class="text-center bg-green-500 py-3 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
           <h4 class="text-xl">Phototheraphy</h4>
       </div>
     </div>
     <div class="swiper-slide">
-        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/incubator.jpg" alt="">
-        <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+        <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/incubator.jpg" alt="">
+        <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+        <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
             <h4 class="text-xl">Incubator Room</h4>
         </div>
     </div>
     <div class="swiper-slide">
-      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-none md:h-72 lg:h-72 h-60 w-full" src="/images/laaboratory.jpg" alt="">
-      <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-none md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/laaboratory.jpg" alt="">
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+      <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
           <h4 class="text-xl">Laboratory</h4>
       </div>
   </div>
   <div class="swiper-slide">
-    <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/2_in_a_room.jpg" alt="">
-    <div class="text-center bg-green-500 py-3 mb-4 md:rounded-lg lg:rounded-lg rounded-none relative -mt-6 text-white font-semibold">
+    <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-lg md:h-72 lg:h-72 h-60 w-full swiper-lazy" src="/images/2_in_a_room.jpg" alt="">
+    <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
         <h4 class="text-xl">2 in a Room</h4>
     </div>
 </div>

@@ -58,7 +58,13 @@
             <div class="pt-5 pb-6 px-5">
               <div class="flex items-center justify-between">
                 <div>
-                  <img class="h-28" src="/images/denovo_logo.jpg" alt="Workflow">
+                  <a href="/">
+                    <span class="sr-only">Denovohospital Limited</span>
+                        <img class="h-14 rounded-full float-left align-top" src="/images/logo_2.jpg" alt="denovo hospital logo">
+                        <span class="inline-block mt-4 ml-2 font-semibold">
+                          <span class="text-green-600">Denovo</span> <span class="text-red-600">Hospital</span>
+                        </span>
+                  </a>
                 </div>
                 <div class="-mr-2">
                   <button  @click="isOpen = !isOpen" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">

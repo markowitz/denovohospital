@@ -26,7 +26,7 @@
               <i class="fa fa-phone-square" aria-hidden="true"></i>
           </div>
           <div class="px-4">Get Emergency Services 24/7 <br>
-            +234 913-1884-828
+            +234 808-5089-833, +234 913-1884-828
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@
           <i class="fa fa-phone-square" aria-hidden="true"></i>
       </div>
       <div class="px-4 text-sm">Get Emergency Services 24/7 <br>
-        +234 913-1884-828
+        +234 808-5089-833, +234 913-1884-828
       </div>
     </div>
   </div>
@@ -124,7 +124,7 @@
 
                     <div class="md:py-3 py-1 md:flex md:text-left jusitfy-center">
                         <div class="md:px-4 md:text-3xl text-sm px-1">
-                            <i class="fa fa-phone-square" aria-hidden="true"></i> +234 808 5089 833
+                            <i class="fa fa-phone-square" aria-hidden="true"></i> +234 808-5089-833, +234 913-1884-828
                         </div>
                       </div>
                 </div>

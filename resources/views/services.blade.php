@@ -27,7 +27,7 @@
               <i class="fa fa-phone-square" aria-hidden="true"></i>
           </div>
           <div class="px-4">Get Emergency Services 24/7 <br>
-            +234 913-1884-828
+            +234 808-5089-833, +234 913-1884-828
           </div>
         </div>
       </div>
@@ -39,7 +39,7 @@
           <i class="fa fa-phone-square" aria-hidden="true"></i>
       </div>
       <div class="sm:px-4 px-2 text-sm">Get Emergency Services 24/7 <br>
-        +234 913-1884-828
+        +234 808-5089-833, +234 913-1884-828
       </div>
     </div>
   </div>
@@ -51,56 +51,65 @@
       We provide excellent services for your ultimate good health. Here some of the services included for better understanding that we are always at your side.
   </p>
 
-  <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 md:px-48 sm:px-24 xs:px-20 px-14 py-12">
-    <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+  <ul class="grid grid-cols-1 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 md:px-48 sm:px-24 xs:px-20 px-14 py-12">
+    <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+      <img src="/images/group_88.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
       <div class="flex-1 flex flex-col p-14">
         e-Health
       </div>
     </li>
 
-    <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+    <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+      <img src="/images/group_89.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
         <div class="flex-1 flex flex-col p-14">
           Surgery
         </div>
       </li>
 
-      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+        <img src="/images/group_90.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
         <div class="flex-1 flex flex-col p-14">
           Pediatric Services
         </div>
       </li>
 
-      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+        <img src="/images/group_93.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
         <div class="flex-1 flex flex-col p-14">
             Fertility & Assisted Reproduction
         </div>
       </li>
 
-      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+      <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+        <img src="/images/group_92.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
           <div class="flex-1 flex flex-col p-14">
             Computerized Laboratory
           </div>
         </li>
 
-        <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+        <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+          <img src="/images/group_91.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
           <div class="flex-1 flex flex-col p-14">
             Advance Diagnosis
           </div>
         </li>
 
-        <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+        <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+          <img src="/images/group_94.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
             <div class="flex-1 flex flex-col p-14">
                 General & Specialized Consultation
             </div>
           </li>
 
-          <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+          <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+            <img src="/images/group_93.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
               <div class="flex-1 flex flex-col p-14">
                 Maternity
               </div>
             </li>
 
-            <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow divide-y divide-gray-200">
+            <li class="col-span-1 flex flex-col text-center bg-white rounded-lg shadow transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+              <img src="/images/group_96.png" alt="" class="w-14 h-14 mx-auto -mt-6 animate-pulse">
               <div class="flex-1 flex flex-col p-14">
                 In/Out Patient Services
               </div>
@@ -126,5 +135,56 @@
             </div>
         </div>
     </div>
+</section>
+<section class="bg-white py-10 bg-opacity-100">
+  <div class="h-40 bg-no-repeat bg-center-top bg-contain -mt-10" style="background-image:url(/images/about-section-bg.png);background-position: calc(100% + 10px) calc(100% - 10px);">
+  </div>
+  <h1 class="md:text-4xl text-2xl font-extrabold text-center -mt-20">OUR FACILITIES</h1>
+  <p class="text-center md:text-xl text-base py-4 md:px-48">
+      We provide excellent services for your ultimate good health. Here some of our facilities are included for better understanding that we are always on your side.
+  </p>
+      <!-- Swiper -->
+<div class="swiper-container">
+  <div class="swiper-wrapper mb-10">
+  <div class="swiper-slide">
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/private_ward.jpg" alt="">
+      <div class="text-center py-3 bg-green-500 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+        <h4 class="text-xl">Private Ward</h4>
+    </div>
+  </div>
+  <div class="swiper-slide">
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/delivery_room.jpg" alt="">
+      <div class="text-center bg-green-500 py-3 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+        <h4 class="text-xl">Delivery Room</h4>
+    </div>
+  </div>
+  <div class="swiper-slide">
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/phototherapy.jpg" alt="">
+      <div class="text-center bg-green-500 py-3 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+        <h4 class="text-xl">Phototheraphy</h4>
+    </div>
+  </div>
+  <div class="swiper-slide">
+      <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-b-lg md:h-72 lg:h-72 h-60 w-full" src="/images/incubator.jpg" alt="">
+      <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+          <h4 class="text-xl">Incubator Room</h4>
+      </div>
+  </div>
+  <div class="swiper-slide">
+    <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-none md:h-72 lg:h-72 h-60 w-full" src="/images/laaboratory.jpg" alt="">
+    <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+        <h4 class="text-xl">Laboratory</h4>
+    </div>
+</div>
+<div class="swiper-slide">
+  <img class="object-cover shadow-lg md:rounded-lg lg:rounded-lg rounded-lg md:h-72 lg:h-72 h-60 w-full" src="/images/2_in_a_room.jpg" alt="">
+  <div class="text-center bg-green-500 py-3 mb-4 md:rounded-b-lg lg:rounded-b-lg rounded-none relative -mt-6 text-white font-semibold">
+      <h4 class="text-xl">2 in a Room</h4>
+  </div>
+</div>
+  </div>
+  <!-- Add Pagination -->
+  <div class="swiper-pagination"></div>
+  </div>
 </section>
 @endsection

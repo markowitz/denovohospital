@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="/css/app.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <script src="https://use.fontawesome.com/752c56bb8d.js"></script>
 </head>
 <body class="bg-gradient-to-br from-green-100 to-gray-900 bg-opacity-80">
@@ -21,6 +22,7 @@
         var swiper = new Swiper('.swiper-container', {
         slidesPerView: 1,
         spaceBetween: 5,
+        lazy: true,
         loop: true,
         pagination: {
         el: '.swiper-pagination',
